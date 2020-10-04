@@ -3,7 +3,6 @@ Exploratory Data Analysis of IBM Sample Data Set Telco Customer Churn
 [![t1.png](https://i.postimg.cc/W37zmsHb/t1.png)](https://postimg.cc/34d3YQhP)  
 
 #
-##
 <br>
 
 ## INTRODUCTION
