@@ -67,7 +67,7 @@ df[(df['Churn']== 'No') & (df['MonthlyCharges'] > 55)].mean()
 [![t18.png](https://i.postimg.cc/hjPfvGLn/t18.png)](https://postimg.cc/p9421Rcc)  
 [![T19.png](https://i.postimg.cc/pLvHB6pc/T19.png)](https://postimg.cc/pps4WkQK)  
 
-- If we take another look, the average monthly charges of customer who churn with monthly charge greater than $55 are pretty much the same,i t means price is not the main problem.  
+- If we take another look, the average monthly charges of customer who churn with monthly charge greater than $55 are pretty much the same.  
 - Senior Citizen although only 16% from total Customer, it has 42% chun rate. It is better to approach them more by giving some discount or promotion gift or any other type of conventional promotion.  
 - For customers with No Partner or Dependents are likely to churn, It is better to
 - Customer Non Senior Citizen whom bills are paperless and the payment method are electrocnic check, also likely to churn with share of 32% from total customer who churn. 
